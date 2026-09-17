@@ -1,4 +1,4 @@
-# İnşaat Tema
+# Construction Theme
 
 > Custom WordPress Theme & Content Management System
 
@@ -8,7 +8,7 @@
 
 ## 📌 Proje Hakkında
 
-**İnşaat Tema**, inşaat, tadilat, restorasyon, iç mimarlık, dekorasyon ve benzeri kurumsal işletmeler için geliştirilmiş özel bir **WordPress tema ve içerik yönetim sistemi** projesidir.
+**Construction Theme**, inşaat, tadilat, restorasyon, iç mimarlık, dekorasyon ve benzeri kurumsal işletmeler için geliştirilmiş özel bir **WordPress tema ve içerik yönetim sistemi** projesidir.
 
 Proje; modern ve responsive bir frontend yapısını, WordPress üzerinde geliştirilen özel bir yönetim arayüzüyle bir araya getirir.
 
@@ -66,7 +66,7 @@ Projenin önemli bölümlerinden biri, WordPress'in standart yönetim deneyimini
 ### Yönetim Paneli Bölümleri
 
 ```text
-İnşaat Tema
+Construction Theme
 ├── Genel
 ├── Ana Sayfa
 ├── Hakkımızda
@@ -239,7 +239,7 @@ Proje, gelecekte yapılabilecek geliştirme ve iyileştirmelere açıktır.
 
 ## 🔐 Repository Kapsamı
 
-Bu repository, **İnşaat Tema** projesinin tanıtımı ve teknik dokümantasyonu amacıyla oluşturulmuştur.
+Bu repository, **Construction Theme** projesinin tanıtımı ve teknik dokümantasyonu amacıyla oluşturulmuştur.
 
 Üretim ortamında kullanılan:
 
@@ -271,7 +271,7 @@ GitHub: [@kahraman114](https://github.com/kahraman114)
 
 ## ⭐ Proje Özeti
 
-**İnşaat Tema**, özel bir WordPress kurumsal web sitesi altyapısının geliştirilmesini gösteren bir projedir.
+**Construction Theme**, özel bir WordPress kurumsal web sitesi altyapısının geliştirilmesini gösteren bir projedir.
 
 Proje özellikle:
 
@@ -285,7 +285,7 @@ alanlarına odaklanmaktadır.
 
 ## 📌 About the Project
 
-**İnşaat Tema** is a custom **WordPress theme and content management system** designed for construction, renovation, restoration, interior design, decoration and other corporate businesses.
+**Construction Theme** is a custom **WordPress theme and content management system** designed for construction, renovation, restoration, interior design, decoration and other corporate businesses.
 
 The project combines a modern and responsive frontend with a custom administration interface developed within WordPress.
 
@@ -343,7 +343,7 @@ One of the main components of the project is its custom administration interface
 ### Administration Sections
 
 ```text
-İnşaat Tema
+Construction Theme
 ├── Genel
 ├── Ana Sayfa
 ├── Hakkımızda
@@ -518,7 +518,7 @@ The project remains open to future improvements and refinements.
 
 ## 🔐 Repository Scope
 
-This repository is intended to showcase and document the **İnşaat Tema** project.
+This repository is intended to showcase and document the **Construction Theme** project.
 
 The following production-related components are not included:
 
@@ -548,7 +548,7 @@ GitHub: [@kahraman114](https://github.com/kahraman114)
 
 ## ⭐ Project Summary
 
-**İnşaat Tema** demonstrates the development of a custom WordPress-based corporate website system with a focus on:
+**Construction Theme** demonstrates the development of a custom WordPress-based corporate website system with a focus on:
 
 **Design · Content Management · Responsive Design · Multilingual Support · SEO · Custom Administration**
 
